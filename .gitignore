@@ -4,3 +4,5 @@
 .DS_Store
 *.aux
 *.log
+/.quarto/
+/_site/
